@@ -1,16 +1,16 @@
-# Titanic Survivor Prediction Dataset
+## Titanic Survivor Prediction Dataset
 
-## Description
+### Description
 
 Project involves prediction of survival rate of passenger on Titanic using machine learning model.
 
-## Installing requirements
+### Installing requirements
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## Results
+### Results
 
 Best Model: KNeighborsClassifier, F1 Score: 0.79
 
